@@ -15,6 +15,10 @@ _Se establece la funcionalidad basica de un cajero automático apartir de la int
 
 ![imagen referencia](https://github.com/RayanSt/Cajero/blob/master/UseCaseCajero.jpg)
 
+### _Diagrama de Clases_:
+
+![imagen referencia](https://github.com/RayanSt/Cajero/blob/master/ClasesCaj.jpg)
+
 ## Harramienta usada: 
 
 _StarUML: [Pagina oficial](http://staruml.io)_
