@@ -13,11 +13,11 @@ _Se establece la funcionalidad basica de un cajero automático apartir de la int
 
 ## Referencias: 
 
-![imagen referencia](https://github.com/RayanSt/Cajero/blob/master/UseCaseCajero.jpg)
+![imagen referencia](https://github.com/RayanSt/ClonCajero/blob/master/UseCaseCajero.jpg)
 
 ### _Diagrama de Clases_:
 
-![imagen referencia](https://github.com/RayanSt/Cajero/blob/master/ClasesCaj.jpg)
+![imagen referencia](https://github.com/RayanSt/ClonCajero/blob/master/ClasesCaj.jpg)
 
 ## Harramienta usada: 
 
